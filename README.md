@@ -1,3 +1,4 @@
+
 # Continuous Integration Tutorial
 
 This repository contains sample Github Actions scripts to help understand how automatic continuous integration is desgined and implemented.
